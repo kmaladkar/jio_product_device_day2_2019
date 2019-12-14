@@ -15,4 +15,6 @@
 
 ##### Bonus:
 
-*   
+*   Perform image detection and recognition from a live url.
+*   The script in available in the folder. "face_detector_live_video.py".
+*   Or you can develop frame from the video and run the model on it.
