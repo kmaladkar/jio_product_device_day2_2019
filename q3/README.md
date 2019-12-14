@@ -18,7 +18,7 @@
   - Build a extractor which finds apporiate highlight with confidence values
 
 - Dataset
-    - Train set can be downloaded from - [data.zip](https://drive.google.com/uc?export=download&id=1iuj28xd581JXK_IoKHDPDpcuyVSwi0pd)
+    - Dataset can be downloaded from - [data.zip](https://drive.google.com/uc?export=download&id=1iuj28xd581JXK_IoKHDPDpcuyVSwi0pd)
     
 - Evaluation
     - Test data set will be shared with you once the problem is completed.
