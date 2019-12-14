@@ -5,7 +5,7 @@ git clone https://github.com/grimreaper94/jio_product_device_day2_2019.git
 
 # Jio Product Devices 2019 - Questions
 
-
+<h6>If you have solved q1 we are expecting you to try solving another question after that </h6> 
 
 #### Max time : 2.30 hours
 
