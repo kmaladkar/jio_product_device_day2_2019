@@ -38,5 +38,4 @@ date ^ top_products<br>
 28-07-2013 ^ [[4,600],[5,800],[7,900]]<br>
 
 
-
 here top_product has 3 pairs in both rows. Pairs like [1,500] are of form [product_id,total_revenue]
